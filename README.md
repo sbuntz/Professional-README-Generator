@@ -17,7 +17,7 @@
   none
   ## License 
   This project is license under MIT
-  [![License](https://opensource.org/licenses/MIT)]
+  https://opensource.org/licenses/MIT
 
   ## Contributing 
   undefined
