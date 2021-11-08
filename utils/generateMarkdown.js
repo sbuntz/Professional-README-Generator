@@ -18,8 +18,7 @@ function generateMarkdown(answers) {
   ## Usage 
   ${answers.usage}
   ## License 
-  This project is license under ${answers.license}
-  [![License](https://opensource.org/licenses/${answers.license})]
+  This project is license under ${answers.license}: https://opensource.org/licenses/${answers.license}
 
   ## Contributing 
   ${answers.contributors}
