@@ -5,7 +5,7 @@
   
 As a part of every project it is essential to provide a quality README with information about the application; the purpose, usage, installation, license, contributors and how to ask the developer questions. 
 
-This is a Node.js command-line application to generates a README.md file based on a users input about your project. For an example please view [`README(demo).md`](https://github.com/sbuntz/Professional-README-Generator/blob/main/README(demo).md) 
+This is a Node.js command-line application to generate a README.md file based on a users input about your project. For an example please view [`README(demo).md`](https://github.com/sbuntz/Professional-README-Generator/blob/main/README(demo).md) 
 
 
 ## Table of Contents
