@@ -36,7 +36,7 @@ function promptUser(){
     },
       {
           type: "input",
-          name: "projectTitle",
+          name: "title",
           message: "What is the title of your repository?",
           validate: nameInput => {
             if (nameInput) {
@@ -55,17 +55,12 @@ function promptUser(){
       {
           type: "input",
           name: "installation",
-          message: "Describe the installation process if any: ",
+          message: "Describe the installation process: ",
       },
-      {
-        type: "input",
-        name: "installation",
-        message: "Please list installation instructions: "
-        },
       {
           type: "input",
           name: "usage",
-          message: "Please list instructions for usage: "
+          message: "Describe the projects usage: "
       },
       {
           type: "list",
@@ -79,7 +74,7 @@ function promptUser(){
       },
       {
           type: "input",
-          name: "contributing",
+          name: "contributors",
           message: "Who are the contributors of this projects?"
       }
   ]);
