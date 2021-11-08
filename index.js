@@ -1,7 +1,7 @@
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
-// const generateMarkdown = require('.utils/generateMarkdown.js');
+const generateMarkdown = require('./utils/generateMarkdown.js');
 
 // const writeFileAsync = util.promisify(fs.writeFile);
 
@@ -58,14 +58,14 @@ function promptUser(){
           message: "Describe the installation process if any: ",
       },
       {
-        type: 'input',
-        name: 'installation',
-        message: 'Please list installation instructions.'
+        type: "input",
+        name: "installation",
+        message: "Please list installation instructions: "
         },
       {
           type: "input",
           name: "usage",
-          message: "Please list instructions for usage"
+          message: "Please list instructions for usage: "
       },
       {
           type: "list",
