@@ -27,7 +27,7 @@ Once completed your README file will be named generated and store in you directo
 
 ## Usage 
 
-![Gif demo of README-generator](readme-demo.gif)
+![Gif demo of README-generator](./readme-demo.gif)
 
 When `node index.js` is run the application uses the `inquirer` package to prompt the user in the command line with a series of questions about their GitHub and project.
 
