@@ -1,7 +1,8 @@
 # undefined
+  [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
 
   ## Description 
-  d
+  hey there
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -13,12 +14,14 @@
   ## Installation 
   undefined
   ## Usage 
-  d
+  none
   ## License 
-  This project is license under Apache
+  This project is license under MIT
+  [![License](https://opensource.org/licenses/MIT)]
+
   ## Contributing 
   undefined
   ## Tests
   undefined
   ## Questions
-  If you have any questions about this projects, please contact me directly at d. You can view more of my projects at https://github.com/undefined.
+  If you have any questions about this projects, please contact me directly at stbuntz@gmail.com. You can view more of my projects at https://github.com/undefined.
